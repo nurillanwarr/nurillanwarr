@@ -71,7 +71,7 @@ Featured repository on my GitHub.
 ## Tech Stack
 
 ### Mobile & Frontend
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -79,28 +79,22 @@ Featured repository on my GitHub.
 </p>
 
 ### Backend & Database
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### AI & ML
-<p>
+<!-- ### AI & ML
+<p align='center'>
   <img src="https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/IndoBERT-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
----
+</p> -->
 
 ## GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurillanwarr&theme=github_dark" />
-</p>
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurillanwarr&theme=github_dark" />
@@ -111,20 +105,6 @@ Featured repository on my GitHub.
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurillanwarr&theme=github_dark" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nurillanwarr&theme=github_dark&utcOffset=7" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nurillanwarr&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurillanwarr/nurillanwarr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurillanwarr/nurillanwarr/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nurillanwarr/nurillanwarr/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
 
 ## Connect
 
