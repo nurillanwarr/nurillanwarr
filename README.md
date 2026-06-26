@@ -8,6 +8,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Nuril+Anwar!;📱+Flutter+%26+Dart+Mobile+Developer;🤖+AI%2FML+Engineer+%7C+Full+Stack;🏆+Top+10+ASEAN+AI+Youth+Challenge+2025" alt="Typing SVG" />
 </div>
 
+<br/>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nurillanwarr&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Developer Joke -->
+<div align="center">
+  <a href="https://github.com/readme-jokes/readme-jokes">
+    <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder=true" alt="Jokes Card" />
+  </a>
+</div>
+
 ---
 
 <!-- Snake Contribution Graph -->
@@ -113,6 +131,12 @@ class NurilAnwar {
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nurillanwarr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurillanwarr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurillanwarr&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br />
